@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anishajoshi426@gmail.com**
 
-- ⚡ Fun fact **i think i can dance very well👍**
+- ⚡ Fun fact **i can dance very well👍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
