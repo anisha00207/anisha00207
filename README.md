@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **backend, frontend development**
 
-- 📝 I regularly write articles on [https://anisha002.blogspot.com/](https://anisha002.blogspot.com/)
-
 - 💬 Ask me about **C++,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **anishajoshi426@gmail.com**
