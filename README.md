@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++,HTML,CSS,JAVASCRIPT**
 
-- 📫 How to reach me **anishajoshi426@gmail.com**
+- 📫 How to reach me **anisha002july@gmail.com**
 
 
 
