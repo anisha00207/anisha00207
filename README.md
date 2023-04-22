@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisha00207" alt="anisha00207" /></a> </p>
 
-- 🔭 I’m currently working on [internet sevice portal](http://127.0.0.1:5500/project1.html)
+
 
 - 🌱 I’m currently learning **backend, frontend development**
 
