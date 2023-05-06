@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anisha-joshi-9813201b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisha-joshi-9813201b7" height="30" width="40" /></a>
-<a href="https://instagram.com/__any_sha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__any_sha" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/anisha002july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anisha002july" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/___anisha00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="___anisha00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anishajoshi426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anishajoshi426" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
