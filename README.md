@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)]
 <h1 align="center">Hi 👋, I'm Anisha</h1>
-<h3 align="center">A passionate frontend developer from India, I am also interested in C++ programming language .I have also created some basic to advanced level frontend projects.</h3>
+
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisha00207&label=Profile%20views&color=0e75b6&style=flat" alt="anisha00207" /> </p>
