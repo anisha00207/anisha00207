@@ -15,7 +15,7 @@
 
  💬 Ask me about **HTML, css, JavaSript, React, Node JS, C, CPP, MongoDB**
 
- 📫 How to reach me **anisha002july@gmail.com**
+ 📫 reach me via **anisha002july@gmail.com**
  <hr>
  
 
