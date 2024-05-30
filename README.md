@@ -10,8 +10,6 @@
 <br>
 <br>
 
-*
-
  💬 Ask me about **HTML, css, JavaSript,PHP, Node JS, C, CPP, MongoDB**
 
  📫 reach me via **anisha002july@gmail.com**
