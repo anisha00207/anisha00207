@@ -9,10 +9,8 @@
 <h3 align="left"> A passionate  developer &  Coder from India</h3>
 <br>
 <br>
-
- 💬 Ask me about **HTML, css, JavaSript,PHP, Node JS, C, CPP, MongoDB**
-
- 📫 reach me via **anisha002july@gmail.com**
+💬 Ask me about **HTML, css, JavaSript,PHP, Node JS, C, CPP, MongoDB**
+📫 reach me via **anisha002july@gmail.com**
  <hr>
  
 
