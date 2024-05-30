@@ -6,14 +6,13 @@
 
 
 <h1 align="left">Hi 👋, I'm Anisha</h1>
-<h3 align="left"> A passionate Frontend developer &  Coder from India</h3>
+<h3 align="left"> A passionate  developer &  Coder from India</h3>
 <br>
 <br>
 
+*
 
-🌱 I’m currently learning **PHP**
-
- 💬 Ask me about **HTML, css, JavaSript, React, Node JS, C, CPP, MongoDB**
+ 💬 Ask me about **HTML, css, JavaSript,PHP, Node JS, C, CPP, MongoDB**
 
  📫 reach me via **anisha002july@gmail.com**
  <hr>
